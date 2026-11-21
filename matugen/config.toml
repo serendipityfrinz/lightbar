@@ -1,0 +1,3 @@
+[templates.lightbar]
+input_path = '~/.config/matugen/assets/lightbar-Theme.qml.in'
+output_path = '~/.config/quickshell/lightbar/config/Theme.qml'
