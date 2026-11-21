@@ -100,7 +100,7 @@ as the autostart command.
 
 > [!TIP]
 > You can search the website/documentary of your window manager
-to know how to autostart apps in your window manager**
+to know how to autostart apps in your window manager
 
 > [!CAUTION]
 > For dwl, you need the ipc patch and the dwlmsg tool.
@@ -146,4 +146,6 @@ You can fix it by copying config inside source standalone into
 ~/.config/quickshell/lightbar/.
 
 ## License
+**AGPL-3.0 (GNU Affero General Public License 3.0)**
+
 See [LICENSE](LICENSE)
